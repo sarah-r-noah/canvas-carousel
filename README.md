@@ -1,5 +1,5 @@
-# canvas-carousel-demo
-![image](https://github.com/tl-its-umich-edu/canvas-carousel-demo/assets/27447/741562ba-f6a3-4333-8512-b25946616684)
+# canvas-carousel
+Forked from the U-M Canvas Carousel
 
 ## Overview
 
@@ -22,7 +22,6 @@ If you change the name of this repository you'll have to change the value of pat
 To enable the carousel, a Canvas admin must include the JavaScript below as part of a larger file uploaded in the Canvas custom theme editor.
 Replace `{your domain}` with a domain that is publicly serving the `canvas_carousel_player.html` file
 and the `content` and `data` directories under the `/canvas-carousel-demo/` path.
-U-M ITS Teaching & Learning uses GitHub Pages to accomplish this, serving from [`tl-its-umich-edu.github.io/canvas-carousel-demo/](https://tl-its-umich-edu.github.io/canvas-carousel-demo/).
 
 ```
 $(document).ready(function() {
