@@ -1,12 +1,12 @@
 {
     "slides": [
        {
-            "imageFileName": "sample_image_1.png",
+            "imageFileName": "CourseEvaluationCanvas_500.png",
             "altText": "Sample Image 1",
             "linkURL": "https://github.com/tl-its-umich-edu/"
         },
         {
-            "imageFileName": "sample_image_2.png",
+            "imageFileName": "CourseEvaluationCanvas_550.png",
             "altText": "Sample Image 2",
             "linkURL": "https://github.com/tl-its-umich-edu/"
         },
