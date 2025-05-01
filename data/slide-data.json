@@ -3,7 +3,7 @@
         {
             "imageFileName": "CourseEvaluationCanvas_550.png",
             "altText": "Sample Image 3",
-            "linkURL": "https://collegeforcreativestudies.instructure.com//"
+            "linkURL": "https://collegeforcreativestudies.instructure.com"
         },
         {
             "imageFileName": "test.png",
@@ -13,7 +13,7 @@
         {
             "imageFileName": "promotional_text.png",
             "altText": "Promotional text",
-            "linkURL": "https://collegeforcreativestudies.instructure.com//"
+            "linkURL": "https://collegeforcreativestudies.instructure.com"
         }
     ],
     "settings": {
