@@ -6,6 +6,11 @@
             "linkURL": "https://collegeforcreativestudies.instructure.com//"
         },
         {
+            "imageFileName": "test.png",
+            "altText": "Sample Image 3",
+            "linkURL": "https://collegeforcreativestudies.instructure.com//"
+        },
+        {
             "imageFileName": "promotional_text.png",
             "altText": "Promotional text",
             "linkURL": "https://collegeforcreativestudies.instructure.com//"
