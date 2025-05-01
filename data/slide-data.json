@@ -1,16 +1,6 @@
 {
     "slides": [
         {
-            "imageFileName": "promotional_text.png",
-            "altText": "Sample Image 2",
-            "linkURL": "https://github.com/tl-its-umich-edu/"
-        },
-            {
-            "imageFileName": "promotional_text.png",
-            "altText": "Sample Image 2",
-            "linkURL": "https://github.com/tl-its-umich-edu/"
-        },
-        {
             "imageFileName": "CourseEvaluationCanvas_550.png",
             "altText": "Sample Image 3",
             "linkURL": "https://collegeforcreativestudies.instructure.com//"
