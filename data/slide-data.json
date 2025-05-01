@@ -1,10 +1,5 @@
 {
     "slides": [
-       {
-            "imageFileName": "test_image.png",
-            "altText": "Sample Image 1",
-            "linkURL": "https://github.com/tl-its-umich-edu/"
-        },
         {
             "imageFileName": "promotional_text.png",
             "altText": "Sample Image 2",
